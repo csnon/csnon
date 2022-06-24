@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Csnon</h1>
-- 🔭 I’m currently working on GTRP
+- 🔭 I’m currently working on nothing lol
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
